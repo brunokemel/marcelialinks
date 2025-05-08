@@ -20,7 +20,7 @@ const profileData = {
     },
     {
       title: "Facebook",
-      url: "https://www.facebook.com/profile.php?id=100092350825305&locale=pt_BR",
+      url: "https://www.facebook.com/people/Cultive-Mais-Sa%C3%BAde/100092350825305/?locale=pt_BR",
       icon: "bi bi-facebook"
     },
     {
