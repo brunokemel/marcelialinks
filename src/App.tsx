@@ -5,7 +5,7 @@ import { GlobalStyle } from './styles/global';
 const profileData = {
   name: "Marcelia Corrêa",
   bio: "Especialista em terapias naturais e energéticas.",
-  imageUrl: "https://scontent.fbel10-1.fna.fbcdn.net/v/t39.30808-6/438171004_7104316853005508_6970590181989255742_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=uxJfbix6jbEQ7kNvwGJYLPZ&_nc_oc=AdkWft7RTW8iMXrhEmCYXuw04il-TowZfJmUFwGyvaWzNOUe912SYf1pYXVzZCYVMJM&_nc_zt=23&_nc_ht=scontent.fbel10-1.fna&_nc_gid=Ig601f_LMQPGzxwslRUkxg&oh=00_AfK1opN4qiWojFWmDdjDESYAM2CTzENelEPbZySGZsDFQQ&oe=683AB37B",
+  imageUrl: "https://scontent.fbel10-1.fna.fbcdn.net/v/t39.30808-1/438171004_7104316853005508_6970590181989255742_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=110&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeE0cNVVoIrXEgatYnG8OFTBsHm1MuEvtIawebUy4S-0huEicBzwJbZB-6CNJBszKGGTAmxebttANqqkPNPP6ns3&_nc_ohc=5KPEBO8BCeYQ7kNvwF-bdZu&_nc_oc=Adn85HAYxpSF5BhI7GhuqHYgZPsJoXxsJeWuc811rJY1r86B8Wfr7MPR4yf4m6Gs9E0&_nc_zt=24&_nc_ht=scontent.fbel10-1.fna&_nc_gid=A7csrBvXf7gccqdqIXEBmw&oh=00_AfOkVVJE0iKqIEU3Gpqub1mBEa7Q1qF1kEb4p1QQ09Ecqg&oe=685CDB79",
   links: [
     {
       title: "Instagram",
