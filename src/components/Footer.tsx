@@ -50,7 +50,7 @@ export function Footer() {
           <Icon className="bi bi-instagram" />
           @kemel.js
         </SocialLink>
-        <SocialLink href="https://www.linkedin.com/in/bruno-matos-026a22220/" target="_blank" rel="noopener noreferrer">
+        <SocialLink href="www.linkedin.com/in/bruno-kemel" target="_blank" rel="noopener noreferrer">
           <Icon className="bi bi-linkedin" />
           @bruno-matos
         </SocialLink>
